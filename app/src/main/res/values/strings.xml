@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">영화 다이어리</string>
     <string name="api_url">https://openapi.naver.com/</string>
-    <string name="client_id">1w7UqFnFzxrqGrP9PVeZ</string>
-    <string name="client_secret">IhyH8Tnkim</string>
-    <string name="googleMap_key">AIzaSyBuWXSSiRdVv3iU6WgZd6477i2oIGCOJJc</string>
+    <string name="client_id">your_id</string>
+    <string name="client_secret">your_secret</string>
+    <string name="googleMap_key">your_key</string>
     <string name="keyword_hint">지역 근처 영화관 검색</string>
     <string name="init_lat">37.604094</string>
     <string name="init_lng">127.042463</string>
