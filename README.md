@@ -14,7 +14,7 @@
 > * Retrofit2 (REST API)
 > * Glide
 > * Google Places API
-> * Google Mapes SDK for Android
+> * Google Maps SDK for Android
 > * Naver Open API - Search -- Movie
 
 ### Language & Tool
